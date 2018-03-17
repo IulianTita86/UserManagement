@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 9.0.4
+Implementation-Title: SpringBootCRUDApplicationExample
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.websystique.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCR
+ UDApplicationExample/
+Created-By: Maven Integration for Eclipse
+
